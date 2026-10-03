@@ -1,0 +1,307 @@
+{
+  "bio": "I’m Sam Shady, a junior at the University of Michigan studying mathematics with a minor in computer science. I’m drawn to challenging problems that require precise formulation, creative thinking, and an understanding of why a solution works. My mathematical interests include topology, combinatorics, and optimization, with a particular focus on computational mathematics and the intersection of mathematics and computer science.",
+  "posts": [
+    {
+      "slug": "logm-research",
+      "title": "Joining the Lab of Geometry",
+      "category": "Math",
+      "date": "2026-09-17T19:54:00-04:00",
+      "body": "Another exciting announcement: I’ve been selected as one of four students on a research team working with Neza Zager Korenjak through the University of Michigan’s Lab of Geometry, LOG(M)! Here’s the project abstract, “A sphere by any other name.”",
+      "pdf": "logm-abstract.pdf",
+      "label": "Read the project abstract"
+    },
+    {
+      "slug": "michigan-math-club",
+      "title": "Speaking at Michigan Math Club",
+      "category": "Math",
+      "date": "2026-09-04T12:14:00-04:00",
+      "body": "I’m excited to announce that I’ve been selected as one of the DRP mentees to give an expanded version of my chalk talk for the Michigan Math Club next Thursday, September 10, at 4:00 p.m. in East Hall, Room 1360. Here’s the poster!",
+      "image": "math-club-poster.jpg",
+      "alt": "Michigan Math Club poster for the September 10, 2026 DRP presentations, including Sam Shady’s talk on Nim and nimbers."
+    },
+    {
+      "slug": "drp-chalk-talk",
+      "title": "DRP Chalk Talk: Combinatorial Game Theory",
+      "category": "Math",
+      "date": "2026-09-01T23:29:00-04:00",
+      "body": "Here’s the abstract for my DRP chalk talk, which I’m giving later this week on September 3 at 7:15 p.m. in East Hall, Room 3088.",
+      "pdf": "drp-abstract.pdf",
+      "label": "Read the abstract"
+    },
+    {
+      "slug": "red-river-gorge",
+      "title": "Climbing at Red River Gorge",
+      "category": "Misc",
+      "date": "2026-08-13T07:24:00-04:00",
+      "body": "Just got home from an awesome rock climbing trip to Red River Gorge. Here’s an action shot of me tackling The Bee’s Business (5.7+).",
+      "image": "red-river-gorge.jpg",
+      "alt": "Sam climbing The Bee’s Business at Red River Gorge."
+    },
+    {
+      "slug": "blair-client-pitch",
+      "title": "Blair Consulting Group’s Client Pitch",
+      "category": "Misc",
+      "date": "2026-07-09T18:24:00-04:00",
+      "body": "Today, after weeks of preparation and mock client discovery, Blair Consulting Group (my fellow interns and I) gave our tailored pitch to our mock client. Here’s a snazzy photo we took after the presentation.",
+      "image": "blair-consulting-group.jpg",
+      "alt": "The five Blair Consulting Group interns posing together after their mock client presentation."
+    },
+    {
+      "slug": "drp-application",
+      "title": "Applied to Math DRP 2026",
+      "category": "Math",
+      "date": "2026-05-05T21:54:00-04:00",
+      "body": "Just applied to Math DRP 2026. Attached is my application write-up from a cool problem from Math 465.",
+      "pdf": "drp-writing-sample.pdf",
+      "label": "Read application write-up"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-10-02T19:41:00-04:00",
+      "body": "A couple friends and I just started a TV \"Book\" Club. First show chosen by Nikhil (obviously), is Twin Peaks; Will update after we’re done with season 1."
+    },
+    {
+      "date": "2026-09-27T16:13:00-04:00",
+      "body": "Steven, Chum, and I have just entered the 2026 International Cryptology Olympiad team competition (October 12–19). We’re excited to see how we place!"
+    },
+    {
+      "date": "2026-09-10T17:29:00-04:00",
+      "body": "Thank you to all the DRP organizers for an amazing experience! A special thank you to Veronica for supporting me throughout the summer and helping me become better at explaining mathematical topics."
+    },
+    {
+      "date": "2026-09-03T21:13:00-04:00",
+      "body": "The DRP presentation went really well, and it was super cool to hear my fellow mentees’ presentations!"
+    },
+    {
+      "date": "2026-05-08T01:25:00-04:00",
+      "body": "Just got accepted into the University of Michigan’s Summer 2026 Directed Reading Program! I’ll be exploring combinatorial game theory with graduate mentor Veronica Lang."
+    }
+  ],
+  "courses": [
+    [
+      "2026",
+      "MATH 490",
+      "Introduction to Topology",
+      "Fall 26"
+    ],
+    [
+      "2026",
+      "EECS 281",
+      "Data Structures and Algorithms",
+      "Fall 26"
+    ],
+    [
+      "2026",
+      "MATH 465",
+      "Introduction to Combinatorics and Graph Theory",
+      "Winter"
+    ],
+    [
+      "2026",
+      "MATH 316",
+      "Differential Equations",
+      "Winter"
+    ],
+    [
+      "2026",
+      "EECS 280",
+      "Programming and Data Structures",
+      "Winter"
+    ],
+    [
+      "2025",
+      "MATH 425",
+      "Introduction to Probability",
+      "Fall"
+    ],
+    [
+      "2025",
+      "MATH 351",
+      "Principles of Analysis",
+      "Fall"
+    ],
+    [
+      "2025",
+      "EECS 183",
+      "Elementary Programming Concepts",
+      "Fall"
+    ],
+    [
+      "2025",
+      "MATH 217",
+      "Proof Based Linear Algebra",
+      "Winter"
+    ],
+    [
+      "2025",
+      "MATH 201",
+      "Introduction to Mathematical Writing",
+      "Winter"
+    ],
+    [
+      "2024",
+      "MATH 285",
+      "Honors Multivariable and Vector Calculus",
+      "Fall"
+    ]
+  ],
+  "pizzas": [
+    {
+      "restaurant": "John’s of Bleecker Street",
+      "city": "New York",
+      "state": "NY",
+      "rating": 9.2
+    },
+    {
+      "restaurant": "L’Industrie Pizzeria — West Village",
+      "city": "New York",
+      "state": "NY",
+      "rating": 9.2
+    },
+    {
+      "restaurant": "The Pizza Shop by Flour",
+      "city": "Hoboken",
+      "state": "NJ",
+      "rating": 8.6
+    },
+    {
+      "restaurant": "Fredi the PizzaMan",
+      "city": "Melvindale",
+      "state": "MI",
+      "rating": 8.5
+    },
+    {
+      "restaurant": "Primo’s Pizza",
+      "city": "Birmingham",
+      "state": "MI",
+      "rating": 8.1
+    },
+    {
+      "restaurant": "Town Pizza",
+      "city": "Ocean Beach (Fire Island)",
+      "state": "NY",
+      "rating": 7.9
+    },
+    {
+      "restaurant": "Grano PizzAiolo",
+      "city": "Birmingham",
+      "state": "MI",
+      "rating": 7.8
+    },
+    {
+      "restaurant": "Ousel & Spur",
+      "city": "Big Sky",
+      "state": "MT",
+      "rating": 7.8
+    },
+    {
+      "restaurant": "Pizzeria Portofino",
+      "city": "Chicago",
+      "state": "IL",
+      "rating": 7.8
+    },
+    {
+      "restaurant": "Tomatoes APIZZA",
+      "city": "Birmingham",
+      "state": "MI",
+      "rating": 7.8
+    },
+    {
+      "restaurant": "Toscana Bistro",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "rating": 7.7
+    },
+    {
+      "restaurant": "Joe’s Pizza",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "rating": 7.5
+    },
+    {
+      "restaurant": "Robert’s Pizza & Dough Co.",
+      "city": "Chicago",
+      "state": "IL",
+      "rating": 7.5
+    },
+    {
+      "restaurant": "Brooklyn Pizza",
+      "city": "Birmingham",
+      "state": "MI",
+      "rating": 7.4
+    },
+    {
+      "restaurant": "New York Pizza Pie",
+      "city": "Birmingham",
+      "state": "MI",
+      "rating": 7.4
+    },
+    {
+      "restaurant": "Crispelli’s",
+      "city": "Troy",
+      "state": "MI",
+      "rating": 7.3
+    },
+    {
+      "restaurant": "Pequod’s Pizza",
+      "city": "Chicago",
+      "state": "IL",
+      "rating": 7.3
+    },
+    {
+      "restaurant": "Buddy’s Pizza",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "rating": 7.2
+    },
+    {
+      "restaurant": "Domino’s Pizza",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "rating": 7.2
+    },
+    {
+      "restaurant": "Jimmy’s Pizza Cafe",
+      "city": "Chicago",
+      "state": "IL",
+      "rating": 7.2
+    },
+    {
+      "restaurant": "Milan Pizzeria",
+      "city": "Royal Oak",
+      "state": "MI",
+      "rating": 6.8
+    },
+    {
+      "restaurant": "Jet’s Pizza",
+      "city": "Birmingham",
+      "state": "MI",
+      "rating": 6.4
+    },
+    {
+      "restaurant": "Pizza Pedal’r",
+      "city": "Winter Park",
+      "state": "CO",
+      "rating": 6.4
+    },
+    {
+      "restaurant": "New York Pizza Depot (NYPD)",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "rating": 6.2
+    },
+    {
+      "restaurant": "Papa Romano’s",
+      "city": "Bloomfield Hills",
+      "state": "MI",
+      "rating": 5.6
+    },
+    {
+      "restaurant": "Little Caesars",
+      "city": "Bloomfield Hills",
+      "state": "MI",
+      "rating": 4.3
+    }
+  ]
+}
