@@ -2,6 +2,15 @@
   "bio": "I’m Sam Shady, a junior at the University of Michigan studying mathematics with a minor in computer science. I’m drawn to challenging problems that require precise formulation, creative thinking, and an understanding of why a solution works. My mathematical interests include topology, combinatorics, and optimization, with a particular focus on computational mathematics and the intersection of mathematics and computer science.",
   "posts": [
     {
+      "slug": "pbmc-ai-in-math",
+      "title": "PBMC’s New AI in Math Initiative",
+      "category": "Computing",
+      "date": "2026-09-25T21:15:00-04:00",
+      "body": "I’m excited to share the University of Michigan’s Proof Based Math Club’s new initiative: AI in Math! We’ll be exploring how AI can support the development and understanding of mathematical proofs, while giving members hands-on experience with Lean and proof formalization. Our goal is to learn together, experiment with AI-assisted proof ideas, and investigate both the possibilities and limitations of these tools.",
+      "link": "https://github.com/samshady-Math/PBMC-Ai-in-Math",
+      "label": "Explore our AI in Math repository"
+    },
+    {
       "slug": "logm-research",
       "title": "Joining the Lab of Geometry",
       "category": "Math",
