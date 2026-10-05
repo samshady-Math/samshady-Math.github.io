@@ -68,7 +68,13 @@
   "news": [
     {
       "date": "2026-09-27T16:13:00-04:00",
-      "body": "Steven, Colin, and I have just entered the 2026 International Cryptology Olympiad team competition (October 12–19). We’re excited to see how we place!"
+      "body": "Steven, Colin, and I have just entered the 2026 International Cryptology Olympiad team competition (October 12–19). We’re excited to see how we place!",
+      "links": [
+        {
+          "text": "Steven",
+          "url": "https://stevenhanwen.github.io/"
+        }
+      ]
     },
     {
       "date": "2026-09-10T17:29:00-04:00",
